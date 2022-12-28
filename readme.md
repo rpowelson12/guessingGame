@@ -1,0 +1,1 @@
+This is a simple guessing game. Follow prompts and try to win!
